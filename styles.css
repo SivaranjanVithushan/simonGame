@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.Btn{
+  margin: 25px;
+  display: inline-block;
+  height: 100px;
+  width: 200px;
+  border-radius: 10%;
+}
